@@ -10,11 +10,11 @@
 
 # Dataset
 We were provided 5 datasets, that simulates a real hotel database:
-- fact_bookings.csv: Booking dates, stay duration, room types
-- dim_hotel.csv: about hotels (ID, location, type, etc.)
-- dim_rooms.csv: Room information (room type, size, category)
-- dim_date.csv: Cancellation reasons and amounts lost
-- fact_aggregated_booking.csv: Daily room and non-room revenue
+- fact_bookings.csv : Booking dates, stay duration, room types
+- dim_hotel.csv : about hotels (ID, location, type, etc.)
+- dim_rooms.csv : Room information (room type, size, category)
+- dim_date.csv : Cancellation reasons and amounts lost
+- fact_aggregated_booking.csv : Daily room and non-room revenue
 
 # Tools and Technologies used
 - Python – Data cleaning and preprocessing
